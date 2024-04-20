@@ -74,7 +74,7 @@ $ brew install carthage
 Then add the following line to your Cartfile:
 
 ```
-github "EngrAhsanAli/SignatureView" "master"
+github "IbrahimGedami/SignatureView" "master"
 ```
 
 Then import the library in all files where you use it:
